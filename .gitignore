@@ -1,0 +1,27 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+allure-report/
+
+# Environment variables and sensitive files
+.env
+credentials.json
+
+# Build and log files
+dist/
+build/
+logs/
+*.log
+
+# Test reports and results
+output/
+reports/
+screenshots/
+videos/
+trace.zip
+
+# IDE and OS specific files
+.vscode/
+.DS_Store
+Thumbs.db

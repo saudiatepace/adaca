@@ -1,0 +1,22 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.50.0",
+    "selenium-webdriver": "^4.28.1"
+  },
+  "devDependencies": {
+    "allure-commandline": "^2.32.0",
+    "chai": "^5.1.2",
+    "mocha": "^11.1.0",
+    "mocha-allure-reporter": "^1.4.0"
+  }
+}
